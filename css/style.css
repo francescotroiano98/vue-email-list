@@ -11,3 +11,9 @@ background-color:#009688;
     height: 85vh;
     background-color: #d8dbd5;
 }
+li{
+    position: absolute;
+left: 50%;
+top: 50%;
+
+}
