@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+.body-top-bg{
+height: 15vh;
+background-color:#009688;
+}
+.body-bottom-bg{
+    height: 85vh;
+    background-color: #d8dbd5;
+}
